@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image99.jpg</filename>
+	<path>/home/he/yolov5/VOCData/images/Image99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

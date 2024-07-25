@@ -1,0 +1,15 @@
+python train.py --weights yolov5s.pt  --cfg yolov5s.yaml  --data my-yolov5.yaml --epoch 200 --batch-size 8 --img 640   --device 0
+
+python detect.py --source 0  # webcam  自带摄像头
+                            file.jpg  # image 图片
+                            file.mp4  # video 视频
+                            path/  # directory
+                            path/*.jpg  # glob
+                            'https://youtu.be/NUsoVlDFqZg'  # YouTube
+                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+python detect.py --weights runs/train/exp9/weights/best.pt --source C:\Users\21659\Desktop\near.mp4
+
+
+python export.py --weights best.pt --img 640 --batch 1 --include onnx
+
+python export.py --weights .\v5s07251324.pt --img 640 --batch 1 --include onnx --opset 12

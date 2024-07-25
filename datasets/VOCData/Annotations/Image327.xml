@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image327.jpg</filename>
+	<path>/home/he/yolov5/VOCData/images/Image327.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>370</ymin>
+			<xmax>396</xmax>
+			<ymax>889</ymax>
+		</bndbox>
+	</object>
+</annotation>

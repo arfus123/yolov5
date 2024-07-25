@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>C:\Users\21659\Desktop\datasets\0526\Annotations</folder>
+  <filename>1Image423.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <source>
+    <database>https://github.com/CVHub520/X-AnyLabeling</database>
+  </source>
+  <object>
+    <name>3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1055</xmin>
+      <ymin>806</ymin>
+      <xmax>1170</xmax>
+      <ymax>922</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>830</xmin>
+      <ymin>248</ymin>
+      <xmax>925</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+</annotation>

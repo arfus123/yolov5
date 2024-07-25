@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image184.jpg</filename>
+	<path>/home/he/yolov5/VOCData/images/Image184.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>370</ymin>
+			<xmax>673</xmax>
+			<ymax>831</ymax>
+		</bndbox>
+	</object>
+</annotation>

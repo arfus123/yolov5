@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image151.jpg</filename>
+	<path>/home/he/yolov5/VOCData/images/Image151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>415</ymin>
+			<xmax>449</xmax>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+</annotation>
