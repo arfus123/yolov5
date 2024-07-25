@@ -1,5 +1,5 @@
-train: D:/yolov5-master/datasets/0526/dataset_path/train.txt
-val: D:/yolov5-master/datasets/0526/dataset_path/val.txt
+train: D:/yolov5-master/datasets/0525/dataset_path/train.txt
+val: D:/yolov5-master/datasets/0525/dataset_path/val.txt
 
 # number of classes
 nc: 3

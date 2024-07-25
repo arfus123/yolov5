@@ -12,4 +12,4 @@ python detect.py --weights runs/train/exp9/weights/best.pt --source C:\Users\216
 
 python export.py --weights best.pt --img 640 --batch 1 --include onnx
 
-python export.py --weights .\v5s07251324.pt --img 640 --batch 1 --include onnx --opset 12
+python export.py --weights .\best.pt --img 640 --batch 1 --include onnx --opset 12
