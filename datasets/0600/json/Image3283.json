@@ -1,0 +1,39 @@
+{
+  "version": "2.3.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2",
+      "score": null,
+      "points": [
+        [
+          1613.061224489796,
+          288.97959183673476
+        ],
+        [
+          1904.8979591836733,
+          288.97959183673476
+        ],
+        [
+          1904.8979591836733,
+          603.265306122449
+        ],
+        [
+          1613.061224489796,
+          603.265306122449
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Image3283.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920,
+  "text": ""
+}

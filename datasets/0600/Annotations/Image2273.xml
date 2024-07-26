@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>D:\yolov5-other\06000\Annotations</folder>
+  <filename>Image2273.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <source>
+    <database>https://github.com/CVHub520/X-AnyLabeling</database>
+  </source>
+  <object>
+    <name>3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>527</xmin>
+      <ymin>205</ymin>
+      <xmax>625</xmax>
+      <ymax>297</ymax>
+    </bndbox>
+  </object>
+</annotation>

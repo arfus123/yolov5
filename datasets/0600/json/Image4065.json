@@ -1,0 +1,123 @@
+{
+  "version": "2.3.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3",
+      "score": 0.5356407761573792,
+      "points": [
+        [
+          392.3464813232422,
+          511.98553466796875
+        ],
+        [
+          424.5766143798828,
+          511.98553466796875
+        ],
+        [
+          424.5766143798828,
+          542.9283447265625
+        ],
+        [
+          392.3464813232422,
+          542.9283447265625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "2",
+      "score": 0.4235546588897705,
+      "points": [
+        [
+          350.5249710083008,
+          140.78570556640625
+        ],
+        [
+          388.4137725830078,
+          140.78570556640625
+        ],
+        [
+          388.4137725830078,
+          179.19931030273438
+        ],
+        [
+          350.5249710083008,
+          179.19931030273438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "2",
+      "score": null,
+      "points": [
+        [
+          383.0,
+          935.0
+        ],
+        [
+          420.0,
+          935.0
+        ],
+        [
+          420.0,
+          969.0
+        ],
+        [
+          383.0,
+          969.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "score": null,
+      "points": [
+        [
+          770.0,
+          535.0
+        ],
+        [
+          808.0,
+          535.0
+        ],
+        [
+          808.0,
+          566.0
+        ],
+        [
+          770.0,
+          566.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Image4065.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920,
+  "text": ""
+}
